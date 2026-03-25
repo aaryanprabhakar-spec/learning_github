@@ -1,3 +1,4 @@
 this is first line 
 this is second line+merge conflict 
 this is third line 
+this is fourth line 
